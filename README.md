@@ -27,7 +27,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Mobile Development
 
@@ -38,15 +38,18 @@
 
 ### Backend & Database
 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Hive](https://img.shields.io/badge/Hive-FFC107?style=for-the-badge&logo=hive&logoColor=black)
 
 ### AI & APIs
 
+![Google AI](https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![HTTP](https://img.shields.io/badge/HTTP-005571?style=for-the-badge&logo=http&logoColor=white)
 ![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)
+![WebView](https://img.shields.io/badge/WebView-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ### Tools
 
@@ -61,17 +64,23 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Learning
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DangTDuy&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DangTDuy&layout=compact&theme=tokyonight)
+- 📱 Advanced Flutter Development
+- 🤖 AI Integration in Mobile Applications
+- ☁️ Backend & Cloud Services
+- 🔌 IoT Application Development
+- 🏗️ Software Architecture & Clean Architecture
 
 ---
 
-## 🔥 GitHub Streak
+## 🎯 Goals
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DangTDuy&theme=tokyonight)
+- 🚀 Become a professional Mobile Developer
+- 📱 Build scalable and user-friendly mobile applications
+- 🤖 Explore AI-powered applications
+- ☁️ Improve Backend and Cloud development skills
+- 💡 Continuously learn new technologies
 
 ---
 
