@@ -12,7 +12,7 @@
 
 📱 Currently working with Flutter and Kotlin
 
-🤖 Interested in AI, IoT and Smart Healthcare Applications
+🚀 Exploring Mobile Development, AI and Cloud Technologies
 
 🚀 Always learning and building new things
 
